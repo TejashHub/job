@@ -14,10 +14,6 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: "http://localhost:3000",
-        description: "Local Server",
-      },
-      {
         url: "https://job-lac-ten.vercel.app",
         description: "Production Server",
       },
